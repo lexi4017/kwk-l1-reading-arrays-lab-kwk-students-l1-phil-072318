@@ -46,6 +46,6 @@ last_student_by_method
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
   room = ["Lady Gaga","Nicki Minaj","Rihanna"]
-   puts room.push ("Adele","Beyoncé","Cardi B")
+   puts room.push ("Adele")
 end
 last_student_by_method
