@@ -50,4 +50,3 @@ def first_second_and_third_students
    puts room(0,1,2)
 end
 first_second_and_third_students
-last_student_by_method
